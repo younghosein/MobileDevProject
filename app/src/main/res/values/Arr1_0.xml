@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="A">
+        <item>Eminem</item>
+        <item>Logic</item>
+        <item>Drake</item>
+        <item>Kendrick</item>
+        <item>Kanye</item>
+    </string-array>
+</resources>

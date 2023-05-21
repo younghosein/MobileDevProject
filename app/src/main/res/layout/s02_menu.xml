@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".S02_Menu"
+    android:background="@drawable/array4">
+
+    <Button
+        android:id="@+id/btn_menu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="100dp"
+        android:layout_marginRight="100dp"
+        android:text="Rosh Dashte Bash"
+        android:textColor="#FFFFFF"
+        android:backgroundTint="#40000000" />
+</LinearLayout>

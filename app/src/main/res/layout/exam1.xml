@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Exam1"
+    android:orientation="vertical"
+    android:id="@+id/myLayout">
+
+
+    <TextView
+        android:id="@+id/lblR"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="#FF0000"
+        android:text="R"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+    <SeekBar
+        android:id="@+id/seekbarR"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:max="100"/>
+
+    <TextView
+        android:id="@+id/lblG"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#1AFF00"
+        android:gravity="center"
+        android:text="G"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+    <SeekBar
+        android:id="@+id/seekbarG"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:max="100"/>
+
+    <TextView
+        android:id="@+id/lblB"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#0022FF"
+        android:gravity="center"
+        android:text="B"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+    <SeekBar
+        android:id="@+id/seekbarB"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:max="100"/>
+
+    <TextView
+        android:id="@+id/lblA"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:gravity="center"
+        android:text="A"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+    <SeekBar
+        android:id="@+id/seekbarA"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:max="100"/>
+
+
+    <EditText
+        android:id="@+id/colorCode"
+        android:textAllCaps="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="#FFFFFF"
+        android:gravity="center"
+        android:textSize="34dp"
+        android:textStyle="bold"/>
+
+
+</LinearLayout>

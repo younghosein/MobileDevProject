@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".S04_1"
+    android:background="@drawable/array10"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tvTF_4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="30dp"
+        android:background="#C3000000"
+        android:gravity="center"
+        android:text="Thememon Meshkie\nEshghie\nEmam hosinie"
+        android:textColor="#BCFFFFFF"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnF1_4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="100dp"
+        android:background="@drawable/roundedbutton"
+        android:backgroundTint="#C3000000"
+        android:gravity="center"
+        android:text="Fontesho avaz kon 1"
+        android:textColor="#BCFFFFFF"
+        android:textSize="13dp"
+        android:textStyle="bold"
+        android:onClick="ChangeFont_4"/>
+
+    <Button
+        android:id="@+id/btnF2_4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="100dp"
+        android:background="@drawable/roundedbutton"
+        android:backgroundTint="#C3000000"
+        android:gravity="center"
+        android:text="Fontesho avaz kon 2"
+        android:textColor="#BCFFFFFF"
+        android:textSize="13dp"
+        android:textStyle="bold"
+        android:onClick="ChangeFont_4"/>
+
+    <Button
+        android:id="@+id/btnF3_4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Goto Menu Page"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="100dp"
+        android:backgroundTint="#F36133"
+        android:gravity="center"
+        android:textColor="#FFFFFF"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:onClick="ChangeFont_4"/>
+    <Button
+        android:id="@+id/btnF4_4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add Dynamic Tasks"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="100dp"
+        android:backgroundTint="#82C831"
+        android:gravity="center"
+        android:textColor="#FFFFFF"
+        android:textSize="15dp"
+        android:textStyle="bold"
+        android:onClick="ChangeFont_4"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:id="@+id/Lyt_4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#A6292929"
+            android:orientation="vertical"
+            android:padding="10dp"></LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#CD000000">
+
+        <project.uni.mobiledevproject.widget.TextViewCustome1
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:gravity="center" />
+
+        <project.uni.mobiledevproject.widget.TextViewCustome2
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>

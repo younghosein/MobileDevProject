@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/RayanGate/Desktop/Project/Mobile Dev Project/MobileDevProject/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.36822916666666666" />
+        <entry key="..\:/Users/RayanGate/Desktop/Project/Mobile Dev Project/MobileDevProject/app/src/main/res/drawable/ic_launcher_background.xml" value="0.36822916666666666" />
+        <entry key="..\:/Users/RayanGate/Desktop/Project/Mobile Dev Project/MobileDevProject/app/src/main/res/drawable/roundedbutton.xml" value="0.36822916666666666" />
+        <entry key="..\:/Users/RayanGate/Desktop/Project/Mobile Dev Project/MobileDevProject/app/src/main/res/drawable/shape1_0.xml" value="0.36822916666666666" />
+        <entry key="..\:/Users/RayanGate/Desktop/Project/Mobile Dev Project/MobileDevProject/app/src/main/res/drawable/shape1_1.xml" value="0.36822916666666666" />
+        <entry key="..\:/Users/RayanGate/Desktop/Project/Mobile Dev Project/MobileDevProject/app/src/main/res/drawable/shape1_2.xml" value="0.25" />
+        <entry key="..\:/Users/RayanGate/Desktop/Project/Mobile Dev Project/MobileDevProject/app/src/main/res/drawable/style1_1.xml" value="0.36822916666666666" />
+        <entry key="..\:/Users/RayanGate/Desktop/Project/Mobile Dev Project/MobileDevProject/app/src/main/res/layout-land/s03_2.xml" value="0.2980599647266314" />
+        <entry key="..\:/Users/RayanGate/Desktop/Project/Mobile Dev Project/MobileDevProject/app/src/main/res/layout/exam1.xml" value="0.35208333333333336" />
+        <entry key="..\:/Users/RayanGate/Desktop/Project/Mobile Dev Project/MobileDevProject/app/src/main/res/layout/exam2.xml" value="0.35208333333333336" />
+        <entry key="..\:/Users/RayanGate/Desktop/Project/Mobile Dev Project/MobileDevProject/app/src/main/res/layout/exam_aboutpage.xml" value="0.35208333333333336" />
+        <entry key="..\:/Users/RayanGate/Desktop/Project/Mobile Dev Project/MobileDevProject/app/src/main/res/layout/exam_mainpage.xml" value="0.35208333333333336" />
+        <entry key="..\:/Users/RayanGate/Desktop/Project/Mobile Dev Project/MobileDevProject/app/src/main/res/layout/exfirst.xml" value="0.22" />
+        <entry key="..\:/Users/RayanGate/Desktop/Project/Mobile Dev Project/MobileDevProject/app/src/main/res/layout/exmain.xml" value="0.22" />
+        <entry key="..\:/Users/RayanGate/Desktop/Project/Mobile Dev Project/MobileDevProject/app/src/main/res/layout/lyt1.xml" value="0.33697916666666666" />
+        <entry key="..\:/Users/RayanGate/Desktop/Project/Mobile Dev Project/MobileDevProject/app/src/main/res/layout/lyt2.xml" value="0.33697916666666666" />
+        <entry key="..\:/Users/RayanGate/Desktop/Project/Mobile Dev Project/MobileDevProject/app/src/main/res/layout/roundedbutton.xml" value="0.33697916666666666" />
+        <entry key="..\:/Users/RayanGate/Desktop/Project/Mobile Dev Project/MobileDevProject/app/src/main/res/layout/s01_basic.xml" value="0.33" />
+        <entry key="..\:/Users/RayanGate/Desktop/Project/Mobile Dev Project/MobileDevProject/app/src/main/res/layout/s01_table.xml" value="0.33" />
+        <entry key="..\:/Users/RayanGate/Desktop/Project/Mobile Dev Project/MobileDevProject/app/src/main/res/layout/s02_1.xml" value="0.33" />
+        <entry key="..\:/Users/RayanGate/Desktop/Project/Mobile Dev Project/MobileDevProject/app/src/main/res/layout/s02_2.xml" value="0.35208333333333336" />
+        <entry key="..\:/Users/RayanGate/Desktop/Project/Mobile Dev Project/MobileDevProject/app/src/main/res/layout/s02_menu.xml" value="0.35208333333333336" />
+        <entry key="..\:/Users/RayanGate/Desktop/Project/Mobile Dev Project/MobileDevProject/app/src/main/res/layout/s03_1.xml" value="0.33" />
+        <entry key="..\:/Users/RayanGate/Desktop/Project/Mobile Dev Project/MobileDevProject/app/src/main/res/layout/s03_2.xml" value="0.33" />
+        <entry key="..\:/Users/RayanGate/Desktop/Project/Mobile Dev Project/MobileDevProject/app/src/main/res/layout/s04_1.xml" value="0.33697916666666666" />
+        <entry key="..\:/Users/RayanGate/Desktop/Project/Mobile Dev Project/MobileDevProject/app/src/main/res/layout/s05_1.xml" value="0.35208333333333336" />
+        <entry key="..\:/Users/RayanGate/Desktop/Project/Mobile Dev Project/MobileDevProject/app/src/main/res/layout/s05_2.xml" value="0.35208333333333336" />
+        <entry key="..\:/Users/RayanGate/Desktop/Project/Mobile Dev Project/MobileDevProject/app/src/main/res/layout/s06_1.xml" value="0.35208333333333336" />
+        <entry key="..\:/Users/RayanGate/Desktop/Project/Mobile Dev Project/MobileDevProject/app/src/main/res/layout/s07_1.xml" value="0.35208333333333336" />
+        <entry key="..\:/Users/RayanGate/Desktop/Project/Mobile Dev Project/MobileDevProject/app/src/main/res/menu/s02_menu.xml" value="0.35208333333333336" />
+        <entry key="..\:/Users/RayanGate/Desktop/Project/Mobile Dev Project/MobileDevProject/app/src/main/res/menu/s04_menu.xml" value="0.35208333333333336" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

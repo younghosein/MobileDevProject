@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    tools:context=".S03_1">
+
+    <Button
+        android:id="@+id/btnAct_3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Open Activity"
+        android:layout_marginRight="100dp"
+        android:layout_marginLeft="100dp"
+        android:gravity="center"
+        android:textSize="18dp"
+        android:backgroundTint="#374AB5"
+        android:textColor="@color/white"
+        android:onClick="Click_3"/>
+
+    <Button
+        android:id="@+id/btnSit_3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Open Site"
+        android:layout_marginRight="100dp"
+        android:layout_marginLeft="100dp"
+        android:gravity="center"
+        android:textSize="18dp"
+        android:backgroundTint="#E83535"
+        android:textColor="@color/white"
+        android:onClick="Click_3"/>
+
+    <Button
+        android:id="@+id/btnSms_3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Send Sms"
+        android:layout_marginRight="100dp"
+        android:layout_marginLeft="100dp"
+        android:gravity="center"
+        android:textSize="18dp"
+        android:backgroundTint="#96DF41"
+        android:textColor="@color/white"
+        android:onClick="Click_3" />
+
+    <EditText
+        android:id="@+id/txtName_3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="100dp"
+        android:ems="10"
+        android:gravity="center"
+        android:inputType="textPersonName"
+        android:hint="Text"
+        android:textColor="#FF954D"
+        android:textColorHint="#FF954D"
+        android:textSize="22dp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/txtNum_3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="phone"
+        android:hint="Number"
+        android:layout_marginRight="100dp"
+        android:layout_marginLeft="100dp"
+        android:gravity="center"
+        android:textSize="22dp"
+        android:textStyle="bold"
+        android:textColorHint="#E3DC56"
+        android:textColor="#E3DC56"/>
+
+    <Button
+        android:id="@+id/btnDo_3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="100dp"
+        android:layout_marginRight="100dp"
+        android:backgroundTint="#5DD1AC"
+        android:gravity="center"
+        android:text="Do"
+        android:textColor="@color/white"
+        android:textSize="18dp"
+        android:onClick="Click_3"/>
+</LinearLayout>

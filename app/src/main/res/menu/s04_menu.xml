@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mi1_4"
+        android:title="اولی" />
+    <item
+        android:id="@+id/mi2_4"
+        android:title="دومی" />
+    <item
+        android:id="@+id/mi3_4"
+        android:title="سومی" />
+    <item
+        android:id="@+id/mi4_4"
+        android:title="خروج" />
+</menu>

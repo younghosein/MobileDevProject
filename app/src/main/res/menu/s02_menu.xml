@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bm1"
+        android:title="اين مثلا يه منوعه" />
+    <item
+        android:id="@+id/bm2"
+        android:title="اينم مثلا يه منوعه که توش منو داره">
+        <menu>
+            <item
+                android:id="@+id/bm2_1"
+                android:title="اينجا توشه ( اولين توش )" />
+            <item
+                android:id="@+id/bm2_2"
+                android:title="اين دومي" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/bm3"
+        android:title="اينم منو آخر" />
+</menu>

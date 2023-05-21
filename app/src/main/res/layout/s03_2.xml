@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    tools:context=".S03_2"
+    android:background="@drawable/array4">
+
+
+    <TextView
+        android:id="@+id/tv1_3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Text Value"
+        android:background="#72000000"
+        android:gravity="center"
+        android:layout_marginLeft="100dp"
+        android:layout_marginRight="100dp"
+        android:textSize="25dp"
+        android:textColor="#60FFFFFF"
+        android:layout_marginTop="25dp"/>
+
+    <TextView
+        android:id="@+id/tv2_3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Number Value"
+        android:layout_marginTop="10dp"
+        android:background="#72000000"
+        android:gravity="center"
+        android:layout_marginLeft="100dp"
+        android:layout_marginRight="100dp"
+        android:textSize="25dp"
+        android:textColor="#60FFFFFF"/>
+
+    <Button
+        android:id="@+id/btnEx_3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="140dp"
+        android:layout_marginRight="140dp"
+        android:backgroundTint="#51000000"
+        android:background="@drawable/roundedbutton"
+        android:gravity="center"
+        android:text="Exit"
+        android:textColor="#60FFFFFF"
+        android:textSize="18dp"
+        android:onClick="Exit_3"/>
+</LinearLayout>

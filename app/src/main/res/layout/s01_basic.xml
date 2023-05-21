@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:id="@+id/Lyt_basic"
+    tools:context=".S01_Basic"
+    android:background="#1C1C1C">
+
+    <TextView
+        android:id="@+id/C_lbl"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0"
+        android:text="Null"
+        android:gravity="center"
+        android:textSize="24dp"
+        android:textColor="#DFDFDF" />
+
+    <Button
+        android:id="@+id/C_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0"
+        android:text="Get Date"
+        android:gravity="center"
+        android:textSize="24dp"
+        android:onClick="btn_Click"
+        android:background="#202020"
+        android:textColor="#DFDFDF"/>
+
+    <Button
+        android:id="@+id/C_btn0"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0"
+        android:text="Say Welcome"
+        android:gravity="center"
+        android:onClick="btn_Click"
+        android:textSize="24dp"
+        android:background="#272727"
+        android:textColor="#DFDFDF"/>
+    <EditText
+        android:id="@+id/C_txt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="#FFFFFF"
+        android:gravity="center"
+        android:textSize="24dp"
+        android:textColor="#DFDFDF"/>
+    <Button
+        android:id="@+id/C_btn1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0"
+        android:text="Change Color"
+        android:onClick="btn_Click"
+        android:gravity="center"
+        android:textSize="24dp"
+        android:background="#202020"
+        android:textColor="#DFDFDF"/>
+
+    <Button
+        android:id="@+id/C_btn2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0"
+        android:background="#272727"
+        android:gravity="center"
+        android:onClick="btn_Click"
+        android:text="Next Page"
+        android:textColor="#DFDFDF"
+        android:textSize="24dp" />
+    <Button
+        android:id="@+id/btnOU"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0"
+        android:background="#272727"
+        android:gravity="center"
+        android:onClick="btn_Click"
+        android:text="Open Ustmb"
+        android:textColor="#DFDFDF"
+        android:textSize="24dp"
+        android:layout_marginTop="100dp"/>
+
+</LinearLayout>
